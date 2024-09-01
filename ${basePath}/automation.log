@@ -1,0 +1,93 @@
+20:07:57:608[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+20:07:59:445[main] INFO  testCases.TC002_LoginTest - *****Finished TC_002_LoginTest *****
+20:11:07:489[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:11:07:711[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+20:11:18:174[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:11:18:185[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:11:20:328[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:11:20:401[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:12:23:771[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+20:12:25:958[main] INFO  testCases.TC002_LoginTest - *****Finished TC_002_LoginTest *****
+20:25:46:098[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:25:46:300[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+20:25:47:458[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:25:47:477[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:25:49:811[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:25:49:876[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:26:19:985[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+20:26:22:152[main] INFO  testCases.TC002_LoginTest - *****Finished TC_002_LoginTest *****
+20:29:11:347[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:29:11:573[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+20:29:12:845[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:29:12:851[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:29:15:354[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:29:15:421[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:29:26:689[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+20:38:11:518[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+20:38:17:329[main] INFO  testCases.TC002_LoginTest - *****Finished TC_002_LoginTest *****
+20:42:16:689[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:42:16:932[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+20:42:17:946[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:42:17:953[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:42:20:160[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:44:03:099[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:44:03:247[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+20:44:05:783[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:44:05:807[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:44:08:101[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:44:08:157[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:23:39:533[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:23:39:607[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:23:40:170[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+22:23:40:173[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:23:41:572[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:23:41:607[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:23:45:139[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+22:23:49:835[main] INFO  testCases.TC002_LoginTest - *****Finished TC_002_LoginTest *****
+22:25:01:254[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:25:01:354[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:25:01:950[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+22:25:01:952[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:25:04:214[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:25:04:265[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:25:16:797[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+22:25:18:413[main] INFO  testCases.TC002_LoginTest - *****Finished TC_002_LoginTest *****
+22:26:19:638[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:26:19:711[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:26:20:285[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+22:26:20:287[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:26:21:457[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:26:21:493[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:26:24:617[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+22:26:26:067[main] INFO  testCases.TC002_LoginTest - *****Finished TC_002_LoginTest *****
+22:28:13:013[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:28:13:012[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:28:13:119[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:28:13:176[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:28:23:258[TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed with exception: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.42)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c8c2b83302d836378bac8af99bf241b9, clickElement {id=f.5FE5D22CBCF5761566F9E2FBEEAAA513.d.248E20A6461BCD56CDD8D2EEDD37DE6F.e.61}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 128.0.2739.42, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57866}, msedge: {msedgedriverVersion: 128.0.2739.42 (e015505d79c9..., userDataDir: C:\Users\Moona\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.110:4444/ses..., se:cdpVersion: 128.0.2739.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (c8c2b83302d836378bac8af99bf241b9)] -> xpath: //a[normalize-space()='Register']]
+Session ID: c8c2b83302d836378bac8af99bf241b9
+22:28:33:317[TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed with exception: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.42)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c8c2b83302d836378bac8af99bf241b9, clickElement {id=f.5FE5D22CBCF5761566F9E2FBEEAAA513.d.248E20A6461BCD56CDD8D2EEDD37DE6F.e.61}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 128.0.2739.42, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57866}, msedge: {msedgedriverVersion: 128.0.2739.42 (e015505d79c9..., userDataDir: C:\Users\Moona\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.110:4444/ses..., se:cdpVersion: 128.0.2739.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (c8c2b83302d836378bac8af99bf241b9)] -> xpath: //a[normalize-space()='Register']]
+Session ID: c8c2b83302d836378bac8af99bf241b9
+20:24:08:550[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Moona\Downloads\Udemy\Udemy Eclipse workspace\OpencartV121\master.xml"
+20:24:13:728[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:24:13:823[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+20:24:14:406[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:24:14:409[main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:24:16:084[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:24:16:146[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:24:20:334[main] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest *****
+20:24:21:807[main] INFO  testCases.TC002_LoginTest - *****Finished TC_002_LoginTest *****
